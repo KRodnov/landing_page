@@ -1,0 +1,689 @@
+@media screen and (max-width: 1024px) {
+
+    .container {
+        padding: 0 5px;
+    }
+
+.card {
+    width: 33.3%}
+
+/*.last {*/
+/*    float: left;*/
+/*    padding-top:50px;*/
+/*    padding-bottom: 151px;*/
+/*}*/
+.big-logo {
+    width: 100px;
+}
+
+.header-girl {
+    font-size: 45px;
+    line-height: 40px;
+}
+.text-girl {
+    font-size: 12px;
+    line-height: 20px;
+    margin-left: 150px;
+}
+.container-for-laptop {
+    padding: 0 5px;
+}
+.img-laptop {
+    width: 58%;
+    padding: 0 5px;
+    top: -471px;
+}
+.back-to-top {
+    top: 200px;
+}
+.footer-first {
+    height: 400px;
+}
+
+.end-text {
+    padding-bottom:100px;
+}
+.listing {
+    width: 50%;
+}
+}
+
+@media screen and (max-width: 768px) {
+
+    .container {
+        padding: 0 5px;
+    }
+    .card{
+        width: 50%;
+    }
+    .img-laptop {
+        width: 58%;
+        padding: 0 5px;
+        top: -241px;
+    }
+    .back-to-top {
+        top: 170px;
+    }
+    .footer-first {
+        height: 300px;
+    }
+    .end-text {
+        padding-bottom:70px;
+    }
+    .girl {
+        height: 500px;
+        padding-top: 200px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+ .menu {
+     margin-right: 0;
+ }
+    .menu-item {
+        list-style-type: none;
+        display: block;
+        margin-bottom: 10px;
+        /*margin-right: 29px;*/
+    }
+    .menu-item-join {
+        list-style-type: none;
+        display: block;
+        background:url("../images/Shape 39.png") no-repeat center right 5px #a100ff;
+        /*margin-right: 20px;*/
+    }
+.menu-link {
+    padding-bottom: 10px;
+}
+.join {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 10px;
+    padding: 7px 0 0 14px;
+}
+.header-heading {
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.header-text {
+    font-size: 14px;
+    line-height: 20px;
+}
+.header-select {
+    width: 180px;
+    padding-left: 20px;
+    padding-right: 0;
+}
+.header-mail {
+    width: 169px;
+    padding-left: 20px;
+    padding-right: 0;
+}
+.for-header-arrow {
+    width: 100px;
+    height: 100px;
+}
+.arrow {
+    top: 35px;
+}
+
+.header-phones {
+    font-size: 30px;
+    line-height: 30px;
+}
+.main-text {
+    font-size: 12px;
+    line-height: 23px;
+}
+.iphone {
+    width: 252px;
+    border-radius: 35px 35px 0 0;
+}
+.for-iphone-circle {
+    height: 100px;
+    width: 100px;
+}
+.iphone-arrow {
+    top: 35px;
+}
+.features {
+    padding-top: 120px;
+}
+.header-features {
+    font-size: 25px;
+    line-height: 27px;
+}
+
+.text-features {
+    font-size: 12px;
+    line-height: 23px;
+}
+    .card{
+        width: 75%;
+        margin-bottom: 30px;
+    }
+    .card-item {
+        padding-bottom: 110px;
+    }
+
+.for-features-arrow {
+    width: 100px;
+    height: 50px;
+    bottom: -49px;
+}
+.features-arrow {
+    top: -15px;
+}
+.guidlines {
+    padding-top: 115px;
+}
+
+.header-guidlines {
+    font-size: 25px;
+    line-height: 26px;
+}
+.text-guidlines {
+    font-size: 12px;
+    line-height: 20px;
+    padding-top: 20px;
+}
+.link-item {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.listing {
+    padding: 0 5px;
+}
+.img-listing {
+    width: 85%;
+}
+.link-listing {
+    font-size: 12px;
+    line-height: 20px;
+    padding: 10px 7px;
+    /*padding-right: 2px;*/
+}
+.text-of-listing {
+    display: inline-block;
+    background: url("../images/Shape 45.png") no-repeat center right 25px  #ffffff;
+}
+.listing-card {
+    padding-bottom: 70px;
+}
+.big-logo {
+    width: 85px;
+}
+.header-girl {
+    font-size: 30px;
+    line-height: 35px;
+}
+.text-girl {
+    font-size: 10px;
+    line-height: 15px;
+    margin-left: 135px;
+}
+    .img-laptop {
+        width: 50%;
+        padding: 0 5px;
+        top: -201px;
+    }
+    .back-to-top {
+        top: 120px;
+    }
+
+    .footer-first {
+        height: 300px;
+    }
+    .end-text {
+        padding-bottom: 70px;
+    }
+    .girl {
+        height: 400px;
+        padding-top: 150px;
+    }
+.footer-links {
+    font-size: 10px;
+    line-height: 30px;
+    width: 80px;
+}
+    .contact,.returns {
+        font-size: 10px;
+        line-height: 30px;
+        margin: 0;
+    }
+    .copyright {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .end-text {
+        font-size: 10px;
+        line-height: 16px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    body {
+        min-width: 320px;
+    }
+    .menu {
+        margin-right: 0;
+        margin-top: 0;
+    }
+
+    .header-heading {
+        font-size: 40px;
+        line-height: 45px;
+    }
+
+    .header-text {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .header-select {
+        display: inline-block;
+        width: 240px;
+        padding-left: 20px;
+        padding-right: 0;
+        margin-bottom: 25px;
+        margin-left: 25px;
+
+    }
+
+    .header-mail {
+        display: inline-block;
+        width: 240px;
+        padding-left: 20px;
+        padding-right: 0;
+        margin-left: 25px;
+        margin-bottom: 25px;
+    }
+
+    .send {
+        display: block;
+        position: absolute;
+        right: 15%;
+    }
+
+    .header-top {
+        padding-bottom: 180px;
+    }
+
+    .contacts {
+        width: 100px;
+        height: 50px;
+        bottom: -30px;
+        right: 0;
+    }
+    .contact-us {
+        font-size: 14px;
+        line-height: 24px;
+        padding-left: 12px;
+        padding-top: 12px;
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+    .header-phones {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .main-text {
+        font-size: 10px;
+        line-height: 23px;
+    }
+    .iphone {
+        width: 230px;
+        border-radius: 35px 35px 0 0;
+    }
+    .for-iphone-circle {
+        height: 80px;
+        width: 80px;
+        bottom: -40px;
+    }
+    .iphone-arrow {
+        width: 25px;
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%,0);
+    }
+    .for-header-arrow {
+        width: 80px;
+        height: 80px;
+        bottom: -40px;
+    }
+    .arrow {
+        width: 25px;
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%,0);
+    }
+    .features {
+        padding-top: 100px;
+    }
+
+
+    .text-features {
+        font-size: 11px;
+        line-height: 22px;
+    }
+    .card{
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    .card-item {
+        padding-bottom: 90px;
+    }
+    .for-features-arrow {
+        width: 80px;
+        height: 40px;
+        bottom: -39px;
+    }
+    .features-arrow {
+        width: 25px;
+        top: -5px;
+    }
+    .guidlines {
+        padding-top: 95px;
+    }
+    .text-guidlines {
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .link-item {
+        display: block;
+        border: 1px solid #28c8c6;
+        width: 180px;
+        margin-bottom: 10px;
+        position: relative;
+        left: 20%;
+    }
+
+    .listing {
+        padding: 0 5px;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .img-listing {
+        width: 100%;
+    }
+    .link-listing {
+        font-size: 12px;
+        line-height: 20px;
+        /*padding: 10px 7px;*/
+        /*padding-right: 2px;*/
+    }
+    .text-of-listing {
+        display: block;
+        background: url("../images/Shape 45.png") no-repeat center right 25px  #ffffff;
+    }
+    .listing-card {
+        padding-bottom: 70px;
+    }
+    .big-logo {
+        width: 65px;
+    }
+    .header-girl {
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .text-girl {
+        font-size: 10px;
+        line-height: 15px;
+        margin-left: 115px;
+    }
+    .img-laptop {
+        width: 80%;
+        padding: 0 5px;
+        top: -155px;
+        right: 20%;
+    }
+    .back-to-top {
+        top: 150px;
+    }
+    .end-text {
+        padding-bottom: 70px;
+    }
+   .facebook {
+       margin-right: 20px;
+   }
+    .footer-links {
+        font-size: 12px;
+        line-height: 30px;
+        width: 80px;
+    }
+    .contact,.returns {
+        font-size: 12px;
+        line-height: 30px;
+        margin: 0;
+    }
+    .copyright {
+        float: left;
+        margin-top: 5px;
+    }
+    .made-top, .made-bottom {
+        font-size: 10px;
+        line-height: 14px;
+        float: left;
+        text-align: left;
+        margin: 0;
+
+    }
+    .end-text {
+        float: left;
+        margin-top: 20px;
+        font-size: 10px;
+        line-height: 16px;
+    }
+}
+@media screen and (max-width: 375px) {
+    .menu {
+        margin-right: 0;
+        margin-top: 0;
+    }
+
+    .header-heading {
+        font-size: 40px;
+        line-height: 45px;
+    }
+
+    .header-text {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+    .header-select {
+        display: inline-block;
+        width: 240px;
+        padding-left: 20px;
+        padding-right: 0;
+        margin-bottom: 25px;
+        margin-left: 25px;
+
+    }
+
+    .header-mail {
+        display: inline-block;
+        width: 240px;
+        padding-left: 20px;
+        padding-right: 0;
+        margin-left: 25px;
+        margin-bottom: 25px;
+    }
+
+    .send {
+        display: block;
+        position: absolute;
+        right: 27%;
+    }
+
+    .header-top {
+        padding-bottom: 180px;
+    }
+
+    .contacts {
+        width: 100px;
+        height: 50px;
+        bottom: -30px;
+        right: 0;
+    }
+    .contact-us {
+        font-size: 14px;
+        line-height: 24px;
+        padding-left: 12px;
+        padding-top: 12px;
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+    .header-phones {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .main-text {
+        font-size: 10px;
+        line-height: 23px;
+    }
+    .iphone {
+        width: 230px;
+        border-radius: 35px 35px 0 0;
+    }
+    .for-iphone-circle {
+        height: 80px;
+        width: 80px;
+        bottom: -40px;
+    }
+    .iphone-arrow {
+        width: 25px;
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%,0);
+    }
+    .for-header-arrow {
+        width: 80px;
+        height: 80px;
+        bottom: -40px;
+    }
+    .arrow {
+        width: 25px;
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%,0);
+    }
+    .features {
+        padding-top: 100px;
+    }
+
+
+    .text-features {
+        font-size: 11px;
+        line-height: 22px;
+    }
+    .card{
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    .card-item {
+        padding-bottom: 90px;
+    }
+    .for-features-arrow {
+        width: 80px;
+        height: 40px;
+        bottom: -39px;
+    }
+    .features-arrow {
+        width: 25px;
+        top: -5px;
+    }
+    .guidlines {
+        padding-top: 95px;
+    }
+    .text-guidlines {
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .link-item {
+        display: block;
+        border: 1px solid #28c8c6;
+        width: 180px;
+        margin-bottom: 10px;
+        position: relative;
+        left: 25%;
+    }
+
+    .listing {
+        padding: 0 5px;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .img-listing {
+        width: 100%;
+    }
+    .link-listing {
+        font-size: 12px;
+        line-height: 20px;
+        /*padding: 10px 7px;*/
+        /*padding-right: 2px;*/
+    }
+    .text-of-listing {
+        display: block;
+        background: url("../images/Shape 45.png") no-repeat center right 25px  #ffffff;
+    }
+    .listing-card {
+        padding-bottom: 70px;
+    }
+    .big-logo {
+        width: 65px;
+    }
+    .header-girl {
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .text-girl {
+        font-size: 10px;
+        line-height: 15px;
+        margin-left: 115px;
+    }
+    .img-laptop {
+        width: 80%;
+        padding: 0 5px;
+        top: -155px;
+        right: 20%;
+    }
+    .back-to-top {
+        top: 150px;
+    }
+    .end-text {
+        padding-bottom: 70px;
+    }
+    .facebook {
+        margin-right: 20px;
+    }
+    .footer-links {
+        font-size: 12px;
+        line-height: 30px;
+        width: 80px;
+    }
+    .contact,.returns {
+        font-size: 12px;
+        line-height: 30px;
+        margin: 0;
+    }
+    .copyright {
+        float: left;
+        margin-top: 5px;
+    }
+    .made-top, .made-bottom {
+        font-size: 10px;
+        line-height: 14px;
+        float: left;
+        text-align: left;
+        margin: 0;
+
+    }
+    .end-text {
+        float: left;
+        margin-top: 20px;
+        font-size: 10px;
+        line-height: 16px;
+    }
+}
